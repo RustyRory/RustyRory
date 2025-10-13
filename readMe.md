@@ -1,4 +1,4 @@
-# Damien Paszkiewicz !
+# Damien Paszkiewicz
 
 🎓 Étudiant en **Bachelor Développement Web & Mobile**  
 💻 Passionné par la **conception full stack**.
@@ -41,6 +41,7 @@ etc...
 ## 📊 Statistiques GitHub
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=RustyRory&show_icons=true&theme=tokyonight)
+
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=RustyRory&layout=compact&theme=tokyonight)
 
 ---
