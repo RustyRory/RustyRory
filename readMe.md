@@ -6,7 +6,7 @@
 
 ## 👤 À propos
 
-Développeur passionné, actuellement 🎓 étudiant en **Bachelor Développement Web & Mobile** à **MyDigitalSchool Angers**.  
+Développeur passionné, actuellement étudiant en **Bachelor Développement Web & Mobile** à **MyDigitalSchool Angers**.  
 Je recherche un **stage** pour approfondir mes compétences en développement **front-end** et **back-end**, dans une équipe où je pourrai apprendre, contribuer et évoluer.
 
 ----------
@@ -44,7 +44,7 @@ Je recherche un **stage** pour approfondir mes compétences en développement **
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white) · 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) · 
 ![Apache](https://img.shields.io/badge/Apache-FF5700?logo=apache&logoColor=white) · 
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) · 
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
 ### **Outils**
 
