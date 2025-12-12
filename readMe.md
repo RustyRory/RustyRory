@@ -13,8 +13,6 @@ Je recherche un **stage** pour approfondir mes compétences en développement **
 
 ## 🛠️ Compétences
 
-## 🛠️ Compétences
-
 ### **Front-End**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) · 
@@ -63,6 +61,9 @@ Je recherche un **stage** pour approfondir mes compétences en développement **
 
 ----------
 
-## 📈 Statistiques GitHub (minimalistes)
+## 📈 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=RustyRory&show_icons=true&theme=tokyonight) ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=RustyRory&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RustyRory&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyRory&layout=compact&theme=tokyonight" />
+</p>
