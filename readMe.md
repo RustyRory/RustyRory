@@ -1,6 +1,5 @@
 # Damien Paszkiewicz
 
-<p align="center"> <img src="https://i.postimg.cc/C13MzFPf/bbb61837-caac-49b8-b5f1-10a5dd5141fe.png" alt="Banner"/> </p> 
 <h3 align="center">Développeur Web & Mobile — En recherche de stage</h3> 
 <br/>
 
