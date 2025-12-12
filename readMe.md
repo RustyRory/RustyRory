@@ -1,5 +1,6 @@
 # Damien Paszkiewicz
 
+<br/>
 <h3 align="center">Développeur Web & Mobile — En recherche de stage</h3> 
 <br/>
 
