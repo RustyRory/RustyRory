@@ -2,7 +2,7 @@
 
 # Damien PASZKIEWICZ
 
-### `Développeur Full-Stack` · Angers, France 🇫🇷🇵🇱
+### `Développeur Full-Stack` · Angers, France
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://damienp.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paszkiewicz-damien)
@@ -79,24 +79,18 @@ Actuellement en stage, je développe une **plateforme de conformité LCB-FT / KY
 
 ## 🌍 Langues
 
-🇫🇷 Français — natif &nbsp;|&nbsp; 🇵🇱 Polonais — bilingue &nbsp;|&nbsp; 🇬🇧 Anglais — courant *(TOEIC 890)* &nbsp;|&nbsp; 🇩🇪 Allemand — notions
+🇫🇷 Français &nbsp;|&nbsp; 🇵🇱 Polonais &nbsp;|&nbsp; 🇬🇧 Anglais 
 
 ---
 
-## 📈 Stats GitHub
-
+🐍 Contributions
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RustyRory&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyRory&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RustyRory/RustyRory/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RustyRory/RustyRory/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/RustyRory/RustyRory/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
----
-
-## ⚡ Fun facts
-
-- 🏐 Joueur & bénévole — **AS SaintBarth Volley** (Nationale)
-- 🎵 Bénévole lors d'**événements musicaux**
-- 🏀 Fan de **basketball** & suiveur NBA
 
 ---
 
